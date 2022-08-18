@@ -15,4 +15,8 @@ göndermek için kullandığımız kod Yalnız git push komutunu direk kullanmak
 Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
 kullanırız
  */
+    public static void main(String[] args) {
+        System.out.println("Githup`u ogreniyorum");
+        System.out.println("githup ogrenmek zor degil");
+    }
 }
