@@ -21,5 +21,6 @@ kullanırız
        // Not: git log --oneline==> commitlerimdeki yani versiyonlarimdaki durumu gosterir
         
         //github ogrendim
+        //githup ogrenmek guzel
     }
 }
