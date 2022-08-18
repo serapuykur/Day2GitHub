@@ -18,5 +18,6 @@ kullanırız
     public static void main(String[] args) {
         System.out.println("Githup`u ogreniyorum");
         System.out.println("githup ogrenmek zor degil");
+       // Not: git log --oneline==> commitlerimdeki yani versiyonlarimdaki durumu gosterir
     }
 }
